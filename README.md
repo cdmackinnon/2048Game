@@ -13,7 +13,12 @@ Java project replicating the popular 2048 game. This project implements the game
 - `src/`: Contains the source code files.
 - `docs/`: Documentation files.
 
-![Gameplay Screenshot](Gameplay_Screenshot.png)
+## Demo
+<p align="center">
+  <img src="Gameplay.gif" alt="Gameplay GIF">
+</p>
+
+
 
 
 ## Acknowledgements
