@@ -1,5 +1,20 @@
-# 2048Game
+# 2048 Game
 
-Java project replica of the 2048 game. See the original [here](https://play2048.co/). Implemented logic and functionality along with extensive JUnit5 Testing to ensure proper handling of edge cases. 
+Java project replicating the popular 2048 game. This project implements the game's logic and functionality, along with extensive JUnit5 testing to ensure proper handling of edge cases.
 
-Runs using standard Java IDEs
+## Installation
+- Clone the repository
+- Open the project in your preferred Java IDE.
+
+## Usage
+- Run the `Main` class to start the game.
+
+## File Structure
+- `src/`: Contains the source code files.
+- `docs/`: Documentation files.
+
+![Gameplay Screenshot](Gameplay_Screenshot.png)
+
+
+## Acknowledgements
+- [Original 2048 Game](https://play2048.co/)
