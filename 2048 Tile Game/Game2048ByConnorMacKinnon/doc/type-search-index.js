@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.wm.cs.cs301.game2048","l":"State"}];updateSearchResults();
